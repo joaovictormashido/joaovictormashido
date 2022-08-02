@@ -1,13 +1,11 @@
-# Olá! Eu sou o João 🖐️
-![Joao Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictormashido&show_icons=true&theme=tokyonight)
-
+# Olá! Eu sou o João 🖐️  
 
 https://www.linkedin.com/in/joaovictorpds/
 
 
-### Tecnologias que eu uso no meu dia
+![Joao Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictormashido&show_icons=true&theme=tokyonight)
 
-
+### Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br/>
    <img olign="center" alt=html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img olign="center" alt=html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,6 +25,5 @@ https://www.linkedin.com/in/joaovictorpds/
    <img olign="center" alt=html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
     <img olign="center" alt=html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />                            
   <img olign="center" alt=html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />                                                                                                                
-   
-  </div>
+   </div>
   

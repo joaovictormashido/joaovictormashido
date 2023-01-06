@@ -3,7 +3,7 @@
 https://www.linkedin.com/in/joaovictorpds/
 
 
-![Joao Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictormashido&show_icons=true&theme=tokyonight)
+![whiterose GitHub stats](https://github-readme-stats.vercel.app/api?username=whiter0sec&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br/>
